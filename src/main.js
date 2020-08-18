@@ -37,3 +37,4 @@ new Vue({
   created: bootstrap,
   render: h => h(App)
 }).$mount('#app')
+
